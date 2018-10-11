@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\liand\dropbox\fall 2017\cis278\projects\week6\e8_12\e8_12\source.cpp(28): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  E8_12.vcxproj -> C:\Users\liand\Dropbox\Fall 2017\CIS278\Projects\week6\E8_12\Debug\E8_12.exe
+  E8_12.vcxproj -> C:\Users\liand\Dropbox\Fall 2017\CIS278\Projects\week6\E8_12\Debug\E8_12.pdb (Partial PDB)
