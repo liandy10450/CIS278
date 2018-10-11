@@ -1,0 +1,3 @@
+﻿  e4_14.cpp
+e4_15.obj : error LNK2005: _main already defined in e4_14.obj
+C:\Users\liand\Dropbox\CIS278\CIS278\week2\Debug\week2.exe : fatal error LNK1169: one or more multiply defined symbols found
